@@ -3,7 +3,7 @@ build:
   version: "2.0"
 
 cards:
-  message: "Welcome to EazyBank cards related quantity APIs "
+  message: "Welcome to EazyBank cards related hello cards APIs "
   contactDetails:
     name: "Cherryl Pankaj - QA Lead"
     email: "{cipher}a9f7a55550e3693f8eb780ce2425310fff2b268d8ae09fe5e2311ebcd17306f399b957d2a77fdf0b63b3e86f90a76669"
