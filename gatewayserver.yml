@@ -7,4 +7,4 @@ eureka:
     registerWithEureka: true
     fecthRegistry: true
     serviceUrl:
-      defaultZone: ""
+      defaultZone:  "http://localhost:8070/eureka/"
